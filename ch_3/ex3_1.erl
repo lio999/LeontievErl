@@ -1,5 +1,5 @@
 -module(ex3_1).
--author("vladmyko").
+-author("lio").
 -export([sum/1, sum/2, test/0]).
 
 %% ex 3-1
