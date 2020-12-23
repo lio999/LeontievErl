@@ -1,5 +1,5 @@
 -module(ex3_3).
--author("vladmyko").
+-author("lio").
 -export([print_integers/2, print_even_integers/2]).
 
 %% ex 3-3
