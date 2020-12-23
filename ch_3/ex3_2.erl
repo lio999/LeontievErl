@@ -1,5 +1,5 @@
 -module(ex3_2).
--author("vladmyko").
+-author("lio").
 -export([create/1, reverse_create/1, test/0]).
 
 %% ex 3-2
